@@ -12,7 +12,10 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 |  User storage               | User Defaults | Core Data     |
 |  Concurrency                | GCD           | Async/await   |
 |  Package manager            | SPM           | COCOAPODS     |
+|  Swift Style Guide          | Swift lint by ... | ...           |
 |  Date of completion         | In process... | ...           |
+
+
 
 
 
