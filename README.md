@@ -2,7 +2,7 @@
 
 I want to introduce you to my two pet projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
 
-| Technology / AppName        | ETHNIC        | Cakeberry     | 
+| Technology / AppName        | ETHNIC - translator        | Cakeberry - Cake order app     | 
 | ---                         | ------------- | ------------- |
 |  Architecture               | MVP-C         | MVVM-C        |
 |  iOS support                | from iOS 13   | from iOS 13   |
