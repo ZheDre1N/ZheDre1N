@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I want to introduce you to my two pet projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
+
+| Ethnic        | Cakeberry |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <!--
 **ZheDre1N/ZheDre1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
