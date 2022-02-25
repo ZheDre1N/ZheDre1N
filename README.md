@@ -5,7 +5,13 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 | Technology / AppName        | ETHNIC        | Cakeberry     | 
 | ---                         | ------------- | ------------- |
 |  Architecture               | MVP-C         | MVVM-C        |
-|  Layot                      | NIB           | Code          |
+|  Layot                      | NIB           | Code, Anchors |
+|  Framework                  | UIKit         | UIKit         |
+|  Network                    | URLSession    | Alamofire     |
+|  iOS support                | from iOS 13   | from iOS 13   |
+|  User storage               | User Defaults | Core Data     |
+
+
 
 
 <!--
