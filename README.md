@@ -11,6 +11,7 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 |  iOS support                | from iOS 13   | from iOS 13   |
 |  User storage               | User Defaults | Core Data     |
 |  Concurrency                | GCD           | Async/await   |
+|  Date of completion         | In process... | ...           |
 
 
 
