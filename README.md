@@ -4,7 +4,7 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 
 | Technology / AppName        | ETHNIC - translator        | Cakeberry - Cake order app     | 
 | ---                         | ------------- | ------------- |
-|  Architecture               | MVP-C         | MVVM-C        |
+|  Architecture               | MVP-R         | MVVM-C        |
 |  iOS support                | from iOS 13   | from iOS 13   |
 |  Layot                      | NIB           | Code, Anchors |
 |  Framework                  | UIKit         | UIKit         |
