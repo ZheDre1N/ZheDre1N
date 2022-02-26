@@ -4,16 +4,16 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 
 | Technology / AppName        | ETHNIC - translator        | Cakeberry - Cake order app     | Invest app
 | ---                         | ------------- | ------------- | ------------- |
-|  Architecture               | MVP-R         | MVVM-C        | YARCH |
-|  iOS support                | from iOS 13   | from iOS 13   | 
-|  Layot                      | NIB           | Code, Anchors |
-|  Framework                  | UIKit         | UIKit         |
-|  Network                    | URLSession    | Alamofire     |
-|  User storage               | User Defaults | Core Data     |
-|  Concurrency                | GCD           | Async/await   |
-|  Package manager            | SPM           | COCOAPODS     |
-|  Swift Style Guide          | Swift lint by google | Swift lint by Raywenderlinch           |
-|  Date of completion         | In process... | ...           |
+|  Architecture               | MVP-R         | MVVM-C        | ... |
+|  iOS support                | from iOS 13   | from iOS 13   | ... |
+|  Layot                      | NIB           | Code, Anchors | ... |
+|  Framework                  | UIKit         | UIKit         | ... |
+|  Network                    | URLSession    | Alamofire     | ... |
+|  User storage               | User Defaults | Core Data     | ... |
+|  Concurrency                | GCD           | Async/await   | ... |
+|  Package manager            | SPM           | COCOAPODS     | ... |
+|  Swift Style Guide          | Swift lint by google | Swift lint by Raywenderlinch           | ... |
+|  Date of completion         | In process... | ...           | ... |
 
 
 
