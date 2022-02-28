@@ -5,7 +5,7 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 | Technology / AppName        | ETHNIC - translator        | Cakeberry - Cake order app     | Invest app
 | ---                         | ------------- | ------------- | ------------- |
 |  Architecture               | MVP-R         | MVVM-C        | ... |
-|  iOS support                | from iOS 13   | from iOS 13   | ... |
+|  iOS support                | iOS 14.4 +   | from iOS 13   | ... |
 |  Layot                      | NIB           | Code, Anchors | ... |
 |  Framework                  | UIKit         | UIKit         | ... |
 |  Network                    | URLSession    | Alamofire     | ... |
