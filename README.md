@@ -9,7 +9,7 @@ I want to introduce you to my two pet projects. You can see a detailed descripti
 |  Layot                      | NIB           | Code, Anchors | ... |
 |  Framework                  | UIKit         | UIKit         | ... |
 |  Network                    | URLSession    | Alamofire     | ... |
-|  User storage               | User Defaults | Core Data     | ... |
+|  User storage               | Core Data | Realm     | ... |
 |  Concurrency                | GCD           | Async/await   | ... |
 |  Package manager            | SPM           | COCOAPODS     | ... |
 |  Swift Style Guide          | Swift lint by Raywenderlinch  | Swift lint by Raywenderlinch           | ... |
