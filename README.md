@@ -2,18 +2,18 @@
 
 I want to introduce you to my two pet projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
 
-| Technology / AppName        | ETHNIC - Translator        | Cakeberry - Cake order app     | Invest app
+| Technology / AppName        | ETHNIC - Translator        | Cakeberry - Cake order app     | ChartView
 | ---                         | ------------- | ------------- | ------------- |
-|  Architecture               | MVP-R         | MVVM-C        | YARCH |
-|  iOS support                | iOS 14.4 +   | from iOS 13   | ... |
-|  Layot                      | NIB           | Code, Anchors | ... |
-|  Framework                  | UIKit         | UIKit         | ... |
-|  Network                    | URLSession    | Alamofire     | ... |
-|  User storage               | Core Data | Realm     | ... |
-|  Concurrency                | GCD           | Async/await   | ... |
-|  Package manager            | SPM           | COCOAPODS     | ... |
-|  Swift Style Guide          | Swift lint by Raywenderlinch  | Swift lint by Raywenderlinch           | ... |
-|  Date of completion         | In process... | ...           | ... |
+|  Architecture               | MVP-R         | MVVM-C        | NA |
+|  iOS support                | iOS 14.4 +   | from iOS 13   | NA |
+|  Layot                      | NIB           | Code, Anchors | NA |
+|  Framework                  | UIKit         | UIKit         | NA |
+|  Network                    | URLSession    | Alamofire     | NA |
+|  User storage               | Core Data | Realm     | NA |
+|  Concurrency                | GCD           | Async/await   | NA |
+|  Package manager            | SPM           | COCOAPODS     | NA |
+|  Swift Style Guide          | Swift lint by Raywenderlinch  | Swift lint by Raywenderlinch           | NA |
+|  Date of completion         | In process... | ...           | NA |
 
 
 
