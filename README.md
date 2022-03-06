@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I want to introduce you to my two pet projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
+I want to introduce you to my projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
 
 | Technology / AppName        | ChartView | ETHNIC - Translator        | Cakeberry - Cake order app     
 | ---                         | ------------- | ------------- | ------------- |
