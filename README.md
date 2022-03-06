@@ -4,7 +4,7 @@ I want to introduce you to my projects. You can see a detailed description of ea
 
 | Technology / AppName        | ChartView     | ETHNIC - Translator        | Cakeberry - Cake order app     
 | ---                         | ------------- | ------------- | ------------- |
-| Description                 | ------------- | ------------- | ------------- |
+| Description                 | Chart showing the value of shares for the Techno Diasoft project | ------------- | ------------- |
 |  Architecture               | NA            | MVP-R         | MVVM-C        | 
 |  iOS support                | NA            |iOS 14.4 +   | from iOS 13   | 
 |  Layot                      | NA            | NIB           | Code, Anchors | 
@@ -15,3 +15,4 @@ I want to introduce you to my projects. You can see a detailed description of ea
 |  Package manager            | NA            | SPM           | COCOAPODS     | 
 |  Swift Style Guide          | NA            | Swift lint by Raywenderlinch  | Swift lint by Raywenderlinch           | 
 |  Date of completion         | NA            |In process... | ...           | 
+|  Screenshot       | NA            |In process... | ...           | 
