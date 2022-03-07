@@ -15,4 +15,4 @@ I want to introduce you to my projects. You can see a detailed description of ea
 |  Package manager            | NA            | SPM           | COCOAPODS     | 
 |  Swift Style Guide          | NA            | Swift lint by Raywenderlinch  | Swift lint by Raywenderlinch           | 
 |  Date of completion         | NA            |In process... | ...           | 
-|  Screenshot       | ![alt text](https://github.com/ZheDre1N/Settings-by-Apple-style/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-03-03%20at%2010.47.03.png?raw=true)            |In process... | ...           | 
+|  Screenshot       | ![alt text](https://github.com/ZheDre1N/ChartView/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202022-03-07%20at%2016.51.31.gif?raw=true)            |In process... | ...           | 
