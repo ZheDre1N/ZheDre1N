@@ -14,5 +14,5 @@ I want to introduce you to my projects. You can see a detailed description of ea
 |  Concurrency                | GCD                            | GCD                                                               |
 |  Package manager            | SPM                            | NA                                                                |
 |  Swift Style Guide          | NA                             | NA                                                                |
-|  Date of completion         | 04.2022                        |03.2022                                                            |
-|  Screenshot       | ![alt text](https://github.com/ZheDre1N/PR-Invest/blob/main/screen.gif?raw=true)            | t |
+|  Date of completion         | 04.2022                        | 03.2022                                                            |
+|  Screenshot       | ![alt text](https://github.com/ZheDre1N/PR-Invest/blob/main/screen.gif?raw=true)            | ![alt text](https://github.com/ZheDre1N/PR-Invest/blob/main/My%20portfolio.gif?raw=true) |
