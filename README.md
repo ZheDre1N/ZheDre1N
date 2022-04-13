@@ -15,5 +15,8 @@ I want to introduce you to my projects. You can see a detailed description of ea
 |  Package manager            | SPM                            | NA                                                                |
 |  Swift Style Guide          | NA                             | NA                                                                |
 |  Date of completion         | 04.2022                        | 03.2022                                                            |
-|  Screenshot       | ![alt text](https://github.com/ZheDre1N/PR-Invest/blob/main/PR-Invest.gif?raw=true| width=100 )          | 
-![alt text](https://github.com/ZheDre1N/PR-Invest/blob/main/My%20portfolio.gif?raw=true| width=100)
+|  Screenshot       | ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+          | 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
