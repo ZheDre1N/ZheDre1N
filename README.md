@@ -18,5 +18,5 @@ I want to introduce you to my projects. You can see a detailed description of ea
 |  Screenshot       | <img src="https://your-image-url.type" width="100" height="100">
 
           | 
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://github.com/ZheDre1N/PR-Invest/blob/main/My%20portfolio.gif?raw=true" width="100" height="100">
 
