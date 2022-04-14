@@ -7,7 +7,7 @@ I want to introduce you to my projects. You can see a detailed description of ea
 | Description                 | Project by iOS Academy course  | Chart showing the value of shares for the Techno Diasoft project (Internship) |
 |  Architecture               | MVC                            | MVVM                                                              |
 |  iOS support                | iOS 13+                        | iOS 13+                                                           |
-|  Layot                      | by Code, frames                | by Code, frames                                                   |
+|  Layout                     | by Code, frames                | by Code, frames                                                   |
 |  Framework                  | UIKit                          | UIKit                                                             |
 |  Network                    | URLSession                     | URLSession                                                        |
 |  User storage               | UserDefaults                   | Core Data                                                         |
